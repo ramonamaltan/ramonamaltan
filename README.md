@@ -4,7 +4,7 @@
 
 - I’m currently learning JavaScript and Python
 
-- Ask me about Ruby on Rails, SQL and my experiences attending a coding bootcamp
+- Ask me about Ruby on Rails, SQL or simply my experiences attending a coding bootcamp
 
 - How to reach me ramonamaltan@gmail.com
 
