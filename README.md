@@ -1,4 +1,4 @@
-<h4 align="center">Hi 👋, I'm Ramona - A passionate fullstack developer from Berlin</h4>
+<h4 align="left">Hi 👋, I'm Ramona - A passionate fullstack developer from Berlin</h4>
 
 - I’m currently working on different projects to expand my skillset - Myrror, Hoodgym, buiding an API.
 
