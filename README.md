@@ -1,8 +1,8 @@
 <h4 align="left">Hi 👋, I'm Ramona - A passionate fullstack developer from Berlin</h4>
 
-- I’m currently working on different projects to expand my skillset - Myrror, Hoodgym, buiding an API.
+- I’m currently working on different projects to expand my skillset - Myrror, Hoodgym, buiding APIs.
 
-- I’m currently learning JavaScript and Python
+- I’m currently learning TDD, Docker and how to be a JS pro
 
 - Ask me about Ruby on Rails, SQL or simply my experiences attending a coding bootcamp
 
