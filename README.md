@@ -4,7 +4,7 @@
 
 - I’m currently learning TDD, Docker and how to be a JS pro
 
-- Ask me about Ruby on Rails, SQL or simply my experiences attending a coding bootcamp
+- Ask me about Ruby on Rails, APIs, SQL or simply my experiences attending a coding bootcamp
 
 - How to reach me ramonamaltan@gmail.com
 
