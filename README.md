@@ -1,6 +1,8 @@
 <h4 align="left">Hi 👋, I'm Ramona - A passionate web developer from Berlin</h4>
 
-- I’m currently working on different website projects, focus on testing, learning Docker and improving my JavaScript Skills
+- I'm currently working on different website projects with a focus on testing
+
+- I'm currently learning Docker and improving my JavaScript Skills
 
 - Ask me about Ruby, Ruby on Rails, APIs, SQL or simply my experiences attending a coding bootcamp
 
