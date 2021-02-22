@@ -11,6 +11,7 @@
 - Or connect with me on LinkedIn: <a href="https://linkedin.com/in/ramona maltan" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="ramona maltan" height="20" width="20" /></a>
 
 <h4 align="left">Languages and Tools:</h4>
+
 Ruby, Ruby on Rails, Rails Minitest, RSpec, Relational databases, SQL, PostgreSQL, APIs, JSON, Web Scraping,
 ES6 Javascript, HTML, CSS, Bootstrap, Git, Github, Heroku
 
