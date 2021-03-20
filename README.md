@@ -1,10 +1,8 @@
 <h4 align="left">Hi 👋, I'm Ramona - A passionate web developer from Berlin</h4>
 
-- I'm currently working on different website projects with a focus on testing
+- I'm currently learning Go and PHP
 
-- I'm currently learning Docker and improving my JavaScript Skills
-
-- Ask me about Ruby, Ruby on Rails, APIs, SQL or simply my experiences attending a coding bootcamp
+- Ask me about Ruby, Ruby on Rails, APIs, SQL or my experiences attending a coding bootcamp
 
 - How to reach me ramonamaltan@gmail.com
 
@@ -12,7 +10,6 @@
 
 <h4 align="left">Languages and Tools:</h4>
 
-Ruby, Ruby on Rails, Rails Minitest, RSpec, Relational databases, SQL, PostgreSQL, APIs, JSON, Web Scraping,
-ES6 Javascript, HTML, CSS, Bootstrap, Git, Github, Heroku
+Ruby, Ruby on Rails, Rails Minitest, RSpec, Relational databases, SQL, PostgreSQL, APIs, JSON, Web Scraping, ES6 Javascript, HTML, CSS, Bootstrap, Git, Github, Heroku
 
 
